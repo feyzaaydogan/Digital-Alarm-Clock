@@ -33,25 +33,25 @@ To see which value is being set at a given time, the time value which is being s
 Here is an example setup scenario of setting up alarm time:
 
 Alarm Set Up
-1-Hold B2 for 3 seconds to start setup *alarm minute will blink*
+  1-Hold B2 for 3 seconds to start setup *alarm minute will blink*
 
-2-Use   B3 to adjust alarm minute
+  2-Use   B3 to adjust alarm minute
 
-3-Press B2 once to switch to hour *alarm hour will blink*
+  3-Press B2 once to switch to hour *alarm hour will blink*
 
-4-Use   B3 to adjust alarm hour
+  4-Use   B3 to adjust alarm hour
 
-5-Press B2 again to end setup *nothing will blink*
+  5-Press B2 again to end setup *nothing will blink*
 
 Clock Set Up
-1-Hold B1 for 3 seconds to start setup *clockminute will blink*
+  1-Hold B1 for 3 seconds to start setup *clockminute will blink*
 
-2-Use   B3 to adjust alarm minute
+  2-Use   B3 to adjust alarm minute
 
-3-Press B1 once to switch to hour *clock hour will blink*
+  3-Press B1 once to switch to hour *clock hour will blink*
 
-4-Use   B3 to adjust alarm hour
+  4-Use   B3 to adjust alarm hour
 
-5-Press B1 again to end setup *nothing will blink*
+  5-Press B1 again to end setup *nothing will blink*
 
 
